@@ -1,4 +1,4 @@
-# <img alt="lifex" width="150" src="https://gitlab.com/lifex/lifex/-/raw/main/doc/logo/lifex.png" />
+# <img alt="lifex" width="150" src="https://lifex.gitlab.io/lifex/lifex_dark.png" />
 
 ## Content
 This repository contains the source files needed to run some test cases for the
